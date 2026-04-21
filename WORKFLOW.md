@@ -9,15 +9,15 @@
 
 ```mermaid
     flowchart TD
-        S1["Upload or select document context"]
-    S2["Choose guided or open analysis"]
-    S3["Run retrieval-backed processing"]
-    S4["Review grounded output"]
-    S5["Refine or export next step"]
-    S1 --> S2
-    S2 --> S3
-    S3 --> S4
-    S4 --> S5
+        W1["Upload or select document context"]
+    W2["Choose guided or open analysis"]
+    W3["Run retrieval-backed processing"]
+    W4["Review grounded output"]
+    W5["Refine or export next step"]
+    W1 --> W2
+    W2 --> W3
+    W3 --> W4
+    W4 --> W5
 ```
 
 ## Publication boundary
